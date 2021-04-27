@@ -202,7 +202,7 @@ echo -e "\033[1;37m 2 \033[1;31m• \033[1;36mCRIAR KEY FIXA SEM VALIDADE\033[1;
 echo -e "\033[1;37m 3 \033[1;31m• \033[1;36mVER KEYS ONLINES\033[0m"
 echo -e "\033[1;37m 4 \033[1;31m• \033[1;36mREMOVER KEY\033[0m"
 echo -e "\033[1;37m 5 \033[1;31m• \033[1;36mVER LOG DE REGISTROS\033[0m"
-echo -e "\033[1;37m 6 \033[1;31m• \033[1;36mACTUALIZAR VERSAO\033[0m"
+echo -e "\033[1;37m 6 \033[1;31m• \033[1;36mATUALIZAR VERSAO\033[0m"
 echo -e "\033[1;37m 7 \033[1;31m• \033[1;36mOTIMIZAR SERVIDOR\033[0m"
 echo -e "\033[1;37m 0 \033[1;31m• \033[1;36mSAIR\033[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
