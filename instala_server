@@ -80,7 +80,7 @@ rm -rf $HOME/instala_server > /dev/null 2>&1
 
 clear
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\033[1;31mINSTALADOR KEY SSHPLUS MANAGER\033[0m"
+echo -e "\033[1;31mINSTALADOR KEY MEGASSH\033[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -ne "\033[0m"
 instala_fun
