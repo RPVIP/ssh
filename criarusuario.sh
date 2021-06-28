@@ -1,7 +1,7 @@
 ﻿#!/bin/bash
 username=$1
 password=$2
-dias=$6
+dias=$3
 sshlimiter=$4
 tput setaf 7 ; tput setab 4 ; tput bold  ; tput sgr0
 echo ""
